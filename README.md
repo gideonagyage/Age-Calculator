@@ -14,9 +14,9 @@ This project is part of the Codevixens Coding Challenge. The goal is to build a 
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/age-calculator.git
-   ```
+```bash
+git clone https://github.com/your-username/age-calculator.git
+```
 
 2. Navigate to the project directory:
 
@@ -38,7 +38,7 @@ npm install
 npm start
 ```
 
-1. Open your browser and navigate to
+2. Open your browser and navigate to
 
 ```bash
 http://localhost:3000.
@@ -66,7 +66,7 @@ http://localhost:3000.
 
 ## Live Demo
 
-Check out the live demo [here](https://gideonagyage.github.io/Age-Calculator/).
+Check out the live demo [here](https://age-calculator-pi-green-34.vercel.app/).
 
 ## Reflection
 
