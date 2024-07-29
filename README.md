@@ -24,7 +24,6 @@ This project is part of the Codevixens Coding Challenge. The goal is to build a 
 cd age-calculator
 ```
 
-
 3. Install dependencies:
 
 ```bash
@@ -35,7 +34,7 @@ npm install
 
 1. Start the development server:
 
- ```bash
+```bash
 npm start
 ```
 
@@ -53,15 +52,21 @@ http://localhost:3000.
 
 ## Screenshots of the Age Calculator UI
 
--- Before Entering Birthdate
+- Before Entering Birthdate
+
+<br>
+
 <img src="./img/Screenshot-Before.png" height="300px" alt="Before" title="Before Entering Birthdate">
 
--- After Entering Birthdate
+- After Entering Birthdate
+
+<br>
+
 <img src="./img/Screenshot-After.png" height="300px" alt="After" title="After Entering Birthdate">
 
 ## Live Demo
 
-Check out the live demo [here](http://localhost:3000).
+Check out the live demo [here](https://gideonagyage.github.io/Age-Calculator/).
 
 ## Reflection
 
@@ -77,7 +82,7 @@ This project is licensed under the MIT License.
 
 ## Acknowledgements
 
--- Codevixens for organizing the challenge.
--- Chinaza Igboanugo, Lois Bassey, and Oyinkansola Shoroye for their contributions and guidance.
+- Codevixens for organizing the challenge.
+- Chinaza Igboanugo, Lois Bassey, and Oyinkansola Shoroye for their contributions and guidance.
 
 Feel free to customize it further to fit your needs! If you have any specific details you'd like to add or change, let me know.
