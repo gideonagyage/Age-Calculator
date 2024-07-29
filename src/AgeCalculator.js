@@ -62,7 +62,7 @@ function AgeCalculator() {
       <div className="card w-75 text-center m-lg-auto m-md-auto bg-gray rounded-4 shadow">
         <div className="card-body">
           <h2 className="card-header text-center text-dark bg-transparent pb-4">
-            Age Calculator 🗓️
+            🗓️ Age Calculator 🧮
           </h2>
           <form className="my-3">
             <div className="form-group text-center">
