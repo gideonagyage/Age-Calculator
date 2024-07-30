@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is part of the Codevixens Coding Challenge. The goal is to build a simple yet functional age calculator using React JS, focusing on mastering state management and event handling.
+This project is part of the Codevixens Frontend Development Challenge (Day 1). The goal is to build a simple yet functional age calculator using React JS, focusing on mastering state management and event handling.
 
 ## Features
 
